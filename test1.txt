@@ -1,3 +1,2 @@
 "This is a test file." 
 "Full name: Francis Aying" 
-"Description: I am a software developer interested in version control." 
